@@ -1,0 +1,14 @@
+<html>
+<head> 
+  <ttitle> igitando texto contínuo! </title>
+</head>
+<body> 
+<p> Todo texto estava sendo digitado dentro de um 
+bloco, porém, estamos aprendeno a quebrar as linhas.
+No word, por exemplo, quando damos entre no texto
+começa em oura linha. No html precisamo informar
+em linguagem html que esse texto deverá aparecer em 
+uma nova linha adicionando a tag "br"."Br" vem da
+abreviatura break-return.</p>
+</body>
+</html>
